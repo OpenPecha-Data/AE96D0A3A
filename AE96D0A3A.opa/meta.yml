@@ -1,0 +1,19 @@
+id: AE96D0A3A
+title: Brief Light Offering Prayer
+type: translation
+pechas:
+- I3DB8412B
+- I409494CF
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:53:52.636524
+  last_modified_at: 2023-01-04 12:53:52.636542
+  collections:
+  - Khenpo Pema Vajra Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3DB8412B/74A9: BDA0
+  I409494CF/EF0C: BDA0
